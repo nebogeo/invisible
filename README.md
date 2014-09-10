@@ -9,5 +9,6 @@ Possible languages:
 
 * Minecraft turtle
 * Weaving (with lsystems)
+* Musical livecoding
 
 More soon...
